@@ -1,6 +1,6 @@
 let questions=[
     {
-        num:1,
+        numb:1,
         question:'The robot is?',
         answer: 'All of the above',
         options:[
@@ -12,7 +12,7 @@ let questions=[
     },
 
     {
-        num:2,
+        numb:2,
         question:'The end effector of a robot is',
         answer: 'All of the above',
         options:[
@@ -24,8 +24,8 @@ let questions=[
     },
 
     {
-        num:3,
-        question:'Robotic manipulator are mostly used',
+        numb:3,
+        question:'Robotic manipulator are mostly used in ',
         answer:'Electric motor actuator',
         options:[
             'Hydraulic actuator',
@@ -36,9 +36,9 @@ let questions=[
     },
 
     {
-        num:4,
+        numb:4,
         question:'End effector is also called as',
-        answer:'Grippers',
+        answer:'Gripper',
         options:[
             'Gripper',
             'Tool',
@@ -48,7 +48,7 @@ let questions=[
     },
 
     {
-        num:5,
+        numb:5,
         question:'The drive which uses fluid',
         answer:'Hydraulic drive system',
         options:[
@@ -60,7 +60,7 @@ let questions=[
     },
 
     {
-        num:6,
+        numb:6,
         question:'Telescopic arm is used in',
         answer:'Polar configuration',
         options:[
@@ -72,7 +72,7 @@ let questions=[
     },
 
     {
-        num:7,
+        numb:7,
         question:'Which of the following is not an advantage of robotics',
         answer:'Time consuming',
         options:[
@@ -84,7 +84,7 @@ let questions=[
     },
 
     {
-        num:8,
+        numb:8,
         question:'Which type of gripper used for ferrous objects',
         answer:'Magnetic Gripper',
         options:[
@@ -96,7 +96,7 @@ let questions=[
     },
 
     {
-        num:9,
+        numb:9,
         question:'Which type of Gripper uses negative air pressure',
         answer:'Vaccum Gripper',
         options:[
@@ -108,7 +108,7 @@ let questions=[
     },
 
     {
-        num:10,
+        numb:10,
         question:'Which of following can be used as a sensor in robot',
         answer:'Thermometer',
         options:[
